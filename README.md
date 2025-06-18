@@ -1,7 +1,7 @@
 
-# 🩺 Riko - Healthcare Voice Assistant (It's a offline model only requires internet for responce)
+# 🩺 Lumy - Healthcare Voice Assistant (It's a offline model only requires internet for responce)
 
-**Riko** is an intelligent, offline voice assistant designed to provide natural home remedial and Ayurvedic home remedies. Built in Python, it uses the Phi-1.5 language model and speaks in a human-like voice using Edge TTS.
+**Lumy** is an intelligent, offline voice assistant designed to provide natural home remedial and Ayurvedic home remedies. Built in Python, it uses the Phi-1.5 language model and speaks in a human-like voice using Edge TTS.
 
 This assistant gives structured, spoken healthcare suggestions tailored for men, women, children, and the elderly — all from simple voice input.
 
@@ -9,7 +9,7 @@ This assistant gives structured, spoken healthcare suggestions tailored for men,
 
 ## 💡 What It Does
 
-- Listens to your **voice** through your mic
+- Listens to your **Lumy** through your mic
 - Understands your **health concerns** (e.g., hair fall, skin rashes)
 - Replies in a **human-like voice** with detailed home remedies
 - Gives natural cures using **Indian and Ayurvedic ingredients**
