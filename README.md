@@ -26,7 +26,9 @@ This assistant gives structured, spoken healthcare suggestions tailored for men,
 - It uses a popular american voice jenny which has a calm tone and super easy vibe.
 ---
 ## Screen shot links
-https://github.com/Ashutosh0000000/Healthcare-mindheal-voice-agent/blob/main/Healthcare%20voice%20assistant%20responce%20screenshot.png
+![Lumy Screenshot](https://raw.githubusercontent.com/Ashutosh0000000/Healthcare-mindheal-voice-agent/main/Screenshot%202025-06-18%20120253.png)
+![Healthcare Voice Assistant Screenshot](https://raw.githubusercontent.com/Ashutosh0000000/Healthcare-mindheal-voice-agent/main/Healthcare%20voice%20assistant%20responce%20screenshot.png)
+
  
 ## 📹 Demo Video
 
