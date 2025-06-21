@@ -28,7 +28,7 @@ This assistant gives structured, spoken healthcare suggestions tailored for men,
 ## Screen shot links
 ![Lumy Screenshot](https://raw.githubusercontent.com/Ashutosh0000000/Healthcare-mindheal-voice-agent/main/Screenshot%202025-06-18%20120253.png)
 ![Healthcare Voice Assistant Screenshot](https://raw.githubusercontent.com/Ashutosh0000000/Healthcare-mindheal-voice-agent/main/Healthcare%20voice%20assistant%20responce%20screenshot.png)
-
+![Healthcare Voice Assistant Screenshot](https://github.com/Ashutosh0000000/Healthcare-mindheal-voice-agent/blob/main/Healthcare%20voice%20assistant%20responce%20screenshot%202.png)
  
 ## 📹 Demo Video
 
