@@ -1,5 +1,5 @@
 
-# 🩺 Lumy - Healthcare Voice Assistant (It's a offline model only requires internet for responce)
+# 🩺 Lumy - Healthcare Voice Assistant (It's a offline model only requires internet for voice responce)
 
 **Lumy** is an intelligent, offline voice assistant designed to provide natural home remedial and Ayurvedic home remedies. Built in Python, it uses the Phi-1.5 language model and speaks in a human-like voice using Edge TTS.
 
