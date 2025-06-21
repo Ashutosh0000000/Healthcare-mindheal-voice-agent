@@ -25,7 +25,9 @@ This assistant gives structured, spoken healthcare suggestions tailored for men,
 - 💻 Python libraries only (no web dependencies)
 - It uses a popular american voice jenny which has a calm tone and super easy vibe.
 ---
-
+## Screen shot links
+https://github.com/Ashutosh0000000/Healthcare-mindheal-voice-agent/blob/main/Healthcare%20voice%20assistant%20responce%20screenshot.png
+ 
 ## 📹 Demo Video
 
 🔗 Video Demo: https://youtu.be/Qe4Errxn3m0
