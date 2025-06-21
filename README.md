@@ -28,7 +28,7 @@ This assistant gives structured, spoken healthcare suggestions tailored for men,
 
 ## 📹 Demo Video
 
-🎥 [Click here to watch the demo](https://drive.google.com/your-demo-link-here)
+🔗 Video Demo: https://youtu.be/Qe4Errxn3m0
 
 
 ## 📄 License
